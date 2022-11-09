@@ -1,2 +1,2 @@
 # codewar
-code war solutions 
+codewars solution with python 
